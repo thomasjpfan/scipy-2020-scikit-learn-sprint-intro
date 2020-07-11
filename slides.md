@@ -85,3 +85,4 @@ class: middle
 class: chapter-slide
 
 # Have Fun! :)
+## Discord: https://discord.gg/8Wm9kyY
