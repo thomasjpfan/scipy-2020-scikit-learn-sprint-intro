@@ -30,20 +30,26 @@ class: middle
 
 class: middle
 
-.grid.grid-middle[
-.grid-8[
-# Communication
-
-## During and after the sprint
-- https://gitter.im/scikit-learn/dev
-
-## Discord for this sprint
-- https://discord.gg/8Wm9kyY
+# Logistics
 
 ## Scipy slack on channel: #sprint-scikit-learn
+
+## Discord for this sprint: https://discord.gg/8Wm9kyY
+
+## During and after the sprint: https://gitter.im/scikit-learn/dev
+
+### Sprint will only be for *Saturday*
+
+---
+
+# Discord!
+
+.grid[
+.grid-6[
+![:scale 55%](images/discord.png)
 ]
-.grid-4[
-![:scale 90%](images/discord.png)
+.grid-6[
+![:scale 67%](images/discord_video.png)
 ]
 ]
 
