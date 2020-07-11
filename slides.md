@@ -44,12 +44,27 @@ class: middle
 
 # Discord!
 
-.grid[
-.grid-6[
-![:scale 55%](images/discord.png)
+.grid.grid-middle[
+.grid-4[
+![:scale 80%](images/discord.png)
 ]
-.grid-6[
-![:scale 67%](images/discord_video.png)
+.grid-8[
+- Join one of the tables when you come in!
+- Prefer to join a table with someone already there and introduce yourself!
+- Hop into the `help-desk-voice` channel to ask questions!
+]
+]
+
+---
+
+# Discord (When in a voice channel)
+
+.grid.grid-middle[
+.grid-4[
+![:scale 100%](images/discord_video.png)
+]
+.grid-8[
+## You can share your screen or camera!
 ]
 ]
 
