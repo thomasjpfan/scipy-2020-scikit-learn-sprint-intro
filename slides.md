@@ -49,8 +49,7 @@ class: middle
 
 ---
 
-# Some Project ideas
-
+# Finding First Issues
 
 - **First contribution:** Start with something simple to get use to the pull request process
 
