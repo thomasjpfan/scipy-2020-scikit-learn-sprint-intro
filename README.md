@@ -4,7 +4,7 @@
 
 Slides introducing the scikit-learn sprint at scipy 2020.
 
-# License
+## License
 
 Copyright (c) 2020 Thomas J. Fan
 
